@@ -16,15 +16,15 @@
 
 <resources>
     <!--  Primary text color in the Dialer -->
-    <color name="dialtacts_primary_text_color">#333333</color>
+    <color name="dialtacts_primary_text_color">#ff0000</color>
     <!-- Secondary text color in the Dialer -->
-    <color name="dialtacts_secondary_text_color">#636363</color>
+    <color name="dialtacts_secondary_text_color">#00ff00</color>
     <color name="dialer_red_highlight_color">#ff1744</color>
     <color name="dialer_green_highlight_color">#00c853</color>
     <color name="dialer_blue_highlight_color">#00a8ff</color>
 
     <color name="dialer_button_text_color">#fff</color>
-    <color name="dialer_flat_button_text_color">@color/dialer_theme_color</color>
+    <color name="dialer_flat_button_text_color">#7b68ee</color>
     <color name="dialer_snackbar_action_text_color">@color/dialer_theme_color</color>
 
     <!-- Color for the setting text. -->
@@ -32,7 +32,7 @@
     <!-- Color for the setting description text. -->
     <color name="setting_secondary_color">@color/dialtacts_secondary_text_color</color>
     <color name="setting_disabled_color">#aaaaaa</color>
-    <color name="setting_background_color">#ffffff</color>
+    <color name="setting_background_color">#000000</color>
     <color name="setting_button_color">#eee</color>
 
     <!-- 54% black -->
@@ -74,11 +74,11 @@
     <!-- White background for dialer -->
     <color name="background_dialer_white">#ffffff</color>
     <!-- Background color of new dialer activity -->
-    <color name="background_dialer_light">#fafafa</color>
+    <color name="background_dialer_light">#000000</color>
     <!-- Background color for search results and call details -->
     <color name="background_dialer_results">#f9f9f9</color>
-    <color name="background_dialer_call_log">@color/background_dialer_light</color>
-    <color name="background_dialer_call_log_list_item">@color/background_dialer_white</color>
+    <color name="background_dialer_call_log">#000000</color>
+    <color name="background_dialer_call_log_list_item">#ffffff</color>
 
     <!-- Color of the 1dp divider that separates favorites -->
     <color name="favorite_contacts_separator_color">#d0d0d0</color>
